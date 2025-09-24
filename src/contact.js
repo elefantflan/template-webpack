@@ -1,5 +1,5 @@
-function sayHi (){
-    return console.log("Hi.")
+function sayHi() {
+  return console.log("Hi.");
 }
 
-export {sayHi}
+export { sayHi };
